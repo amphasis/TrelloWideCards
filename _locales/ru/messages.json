@@ -1,0 +1,11 @@
+{
+  "extensionName": {
+    "message": "\u0420\u0430\u0441\u0448\u0438\u0440\u0438\u0442\u0435\u043B\u044C \u043A\u0430\u0440\u0442\u043E\u0447\u0435\u043A Trello.com",
+    "description": "Name of the extension."
+  },
+
+  "extensionDescription": {
+    "message": "\u0420\u0430\u0437\u0434\u0432\u0438\u043D\u044C \u0441\u0432\u043E\u0439 \u0437\u0430\u0434, \u0441\u0440\u043E\u043A\u043E\u0434\u0430\u0432\u0430\u0442\u0435\u043B\u044C!",
+    "description": "Description of the extension."
+  }
+}
